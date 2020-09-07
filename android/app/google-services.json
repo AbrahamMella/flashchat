@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1071658184890",
+    "firebase_url": "https://flash-chat-4366e.firebaseio.com",
+    "project_id": "flash-chat-4366e",
+    "storage_bucket": "flash-chat-4366e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071658184890:android:5796224b7b34e69883d283",
+        "android_client_info": {
+          "package_name": "com.dreamex.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071658184890-6kfvjkdl8amodnufcv0c192d0cgmpq4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLlx6C_FDPCmdIbNeKx_Dz6aOV2zK5yHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071658184890-6kfvjkdl8amodnufcv0c192d0cgmpq4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
